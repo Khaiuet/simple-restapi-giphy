@@ -15,7 +15,7 @@
 - [x] Put love into this first task🥰
 
 # Live
-Deploy: https://khaiuet.github.io
+Deploy: https://simple-restapi-giphy.vercel.app/
 
 
 ## Features
@@ -40,7 +40,7 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-  git clone https://github.com/Khaiuet/apply-internship
+  git clone https://github.com/Khaiuet/simple-restapi-giphy
 ```
 
 Go to the project directory
