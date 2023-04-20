@@ -3,7 +3,7 @@ import { FooterWrapper } from './styles';
 const Footer = () => {
   return (
     <FooterWrapper>
-      <p><a href="https://github.com/khaiuet/giphy-search/">Github Repository</a></p>
+      <p><a href="https://github.com/Khaiuet/simple-restapi-giphy/">Github Repository</a></p>
     </FooterWrapper>
   )
 }
