@@ -24,8 +24,9 @@ Deploy: https://simple-restapi-giphy.vercel.app/
 - Filter
 
 ## What's next
--Scroll Infinity
--Redux Pattern
+- Scroll Infinity
+- Redux Pattern
+- Pagination
 
 ## Environment Variables
 
