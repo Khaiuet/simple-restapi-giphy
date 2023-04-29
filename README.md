@@ -12,7 +12,7 @@
 - [x] The app should be deployed to AWS 
 - [x] Typescript 
 - [x] Vercel
-- [x] Put love into this first task🥰
+
 
 # Live
 Deploy: https://simple-restapi-giphy.vercel.app/
