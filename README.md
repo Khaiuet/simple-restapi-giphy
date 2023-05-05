@@ -1,6 +1,6 @@
 
 # Giphy App (Elevate AI Tasks)
-### Frontend, 4/2023.
+### I conducted the process interview for this project at Elevate. Frontend, 4/2023.
 
 - [x] Build a React web app
 - [x] Consume Giphy REST Api for search
