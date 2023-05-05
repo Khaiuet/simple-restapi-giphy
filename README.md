@@ -17,6 +17,8 @@
 # Live
 Deploy: https://simple-restapi-giphy.vercel.app/
 
+# Reference
+https://docs.google.com/document/d/1zAwl1b8ltqgMSPsI1gT9RWtxLts6foOc/edit#heading=h.qtbh33kopt17
 
 ## Features
 
