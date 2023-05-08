@@ -19,8 +19,7 @@
 # Live
 Deploy: https://simple-restapi-giphy.vercel.app/
 
-# Reference
-https://docs.google.com/document/d/1zAwl1b8ltqgMSPsI1gT9RWtxLts6foOc/edit#heading=h.qtbh33kopt17
+
 
 ## Features
 
@@ -39,7 +38,8 @@ To run this project, you will need to add the following environment variables to
  
 
 `REACT_APP_GIPHY_API_BASE_URL`= https://api.giphy.com/v1/gifs 
-`REACT_APP_GIPHY_API_KEY` =
+`REACT_APP_GIPHY_API_KEY` = 
+
 
 
 ## Run Locally
