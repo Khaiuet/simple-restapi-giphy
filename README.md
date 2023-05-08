@@ -1,6 +1,6 @@
 
 # Giphy App (Elevate AI Tasks)
-### I conducted the process interview for this project at [Elevate](https://get-elevate.com/). Frontend, 4/2023.
+### I conducted the process interview for this project at [ElevateAI](https://get-elevate.com/). remote work in Winconsin, US, 4/2023.
 
 ![alt text](https://scontent.fhan2-4.fna.fbcdn.net/v/t39.30808-6/345645691_798608508609664_3812325602202492532_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=qUBIkPKqIQMAX_ohto_&_nc_ht=scontent.fhan2-4.fna&oh=00_AfAIkMq8BH_W7crgILmzNQs1nKPgsMChrGJyxP_6F1B9LQ&oe=645EAEF5)
 
