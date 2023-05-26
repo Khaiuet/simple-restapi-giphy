@@ -11,7 +11,7 @@
 - [x] Fetch 10 results per call
 - [ ] Scroll Infinite
 - [ ] Pagination
-- [x] The app should be deployed to AWS 
+- [ ] The app should be deployed to AWS 
 - [x] Typescript 
 - [x] Vercel
 
